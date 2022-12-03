@@ -1,3 +1,5 @@
+#creating a triangle class with every possible properties of a general triangle.
+
 class Triangle():
   def __init__(self, a, b, c):
       self.a = a
